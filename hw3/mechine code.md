@@ -1,4 +1,4 @@
-### ¾÷¾¹½X
+### 
 ```c
 1: #include<stdio.h>
 2: int power(int x,int y){
